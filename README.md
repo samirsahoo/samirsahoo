@@ -1,6 +1,6 @@
 ## Samir Kumar Sahoo
 
-**Principal Architect @ BNP Paribas, Chennai** — enterprise architecture, cloud-native modernization, Agentic AI.
+**Principal Architect @ FinTech, India** — enterprise architecture, cloud-native modernization, Agentic AI.
 
 22+ years architecting and delivering enterprise systems across banking, financial services, airlines and IT consulting — the last 14 at BNP Paribas, modernizing legacy platforms into cloud-native architectures, driving microservices adoption across CIB 2S, and leading R&D into Generative and Agentic AI.
 
