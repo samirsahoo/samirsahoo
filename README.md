@@ -4,10 +4,10 @@
 
 22+ years architecting and delivering enterprise systems across banking, financial services, airlines and IT consulting — the last 14 at BNP Paribas, modernizing legacy platforms into cloud-native architectures, driving microservices adoption across CIB 2S, and leading R&D into Generative and Agentic AI.
 
-- Built **CORAS**, a reusable framework (SSO, cryptography, i18n, API-first UI utilities) that saved ~25% development effort across CIB2S
+- Built a reusable framework (SSO, cryptography, i18n, API-first UI utilities) that saved ~25% development effort across Bank
 - Modernized legacy systems into cloud-native architectures on AWS and IBM Cloud — 30–40% efficiency gain, 30% lower operating cost
 - Led AI-driven initiatives in fraud detection and predictive analytics; built internal platforms ReachPeople, SmartHire, IRIS2eMA and DataAnalyzer
-- TechTalk speaker on Cloud-Native, Microservices, DDD, Kubernetes and Generative AI
+- TechTalk speaker on Cloud-Native, Microservices, DDD, Kubernetes and Generative AI & Agentic AI
 
 ### What I build here
 
